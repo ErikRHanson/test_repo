@@ -15,3 +15,5 @@ class Octocat
   
   m = Octocat.new("Mona", "cat", "octopus")
   m.display
+
+puts "All done now."
